@@ -9,3 +9,6 @@ cache:
   directories:
     - node_modules
 sudo: false
+after_success:
+  - script: echo SUCCESS
+  - sh ./deploy.sh
