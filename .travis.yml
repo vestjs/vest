@@ -8,7 +8,7 @@ script: date | sha1sum | curl -F 'sprunge=<-' http://sprunge.us
 cache:
   directories:
     - node_modules
-sudo: false
+sudo: true
 after_success:
   - script: echo SUCCESS
   - sh ./deploy.sh
