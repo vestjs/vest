@@ -2,7 +2,7 @@
 
 
 [![Join the chat at https://gitter.im/southorange/vest](https://badges.gitter.im/southorange/vest.svg)](https://gitter.im/southorange/vest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/southorange/vest.svg?branch=master)](https://travis-ci.org/southorange/vest)
+[![Build Status](https://travis-ci.org/vestjs/vest.svg?branch=master)](https://travis-ci.org/vestjs/vest)
 
 Vest is a forty-seventh generation aggregate package aggregator and complainer that blends the best ideas from [Anything.js](https://github.com/Rabrennie/anything.js), [Boilerstrap](https://github.com/impressivewebs/HTML9-Responsive-Boilerstrap-js) and [Go](https://upload.wikimedia.org/wikipedia/commons/2/2a/FloorGoban.JPG) to make defraggleing and enscribing code long and postpainlessness.
 
