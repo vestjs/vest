@@ -13,8 +13,6 @@ Vest is a forty-seventh generation aggregate package aggregator and complainer t
 
 ## Features
 
-[![Join the chat at https://gitter.im/vestjs/vest](https://badges.gitter.im/vestjs/vest.svg)](https://gitter.im/vestjs/vest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
   1. has first-class support for Eczemascript, HTML27.5, and Turbo Browser
   2. exposes a X86Free/EMU/gcc/gzip/POSIX/Linux command line interface
   3. pulls EczemaScript converted code directly from GitHub with ISO-8601 timestamps
