@@ -10,5 +10,4 @@ cache:
     - node_modules
 sudo: true
 after_success:
-  - script: echo SUCCESS
   - sh ./deploy.sh
